@@ -5,7 +5,7 @@
       "name": "target_workspace_id",
       "note": "",
       "type": "Guid",
-      "value": "d7270f11-feba-4990-baa6-d45e47f23737"
+      "value": "edc96a8b-c6a9-457d-b098-1ddfd2653c4d"
     },
     {
       "name": "target_lakehouse_name",
@@ -17,13 +17,13 @@
       "name": "target_workspace_name",
       "note": "",
       "type": "String",
-      "value": "microsoft-fabric-sdlc-patterns-dev"
+      "value": "ws-sdlc-dev"
     },
     {
       "name": "target_lakehouse_id",
       "note": "",
       "type": "Guid",
-      "value": "c185283c-9dd9-4e40-a17c-aa6303e3a2e9"
+      "value": "577b5b32-49f1-470b-acaf-2e2f0e4da6ca"
     },
     {
       "name": "target_customer_name",
@@ -36,6 +36,12 @@
       "note": "",
       "type": "String",
       "value": "Hola equipo de Evertec! ¡Bienvenidos a Dev!"
+    },
+    {
+      "name": "testing",
+      "note": "",
+      "type": "String",
+      "value": "test"
     }
   ]
 }

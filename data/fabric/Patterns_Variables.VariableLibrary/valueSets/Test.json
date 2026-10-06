@@ -4,7 +4,7 @@
   "variableOverrides": [
     {
       "name": "target_workspace_id",
-      "value": "44a6a67d-43b4-4184-ba20-5111e42680ac"
+      "value": "794070ae-310c-4a8c-a2e9-c33a6da061e4"
     },
     {
       "name": "target_customer_name",
@@ -13,6 +13,10 @@
     {
       "name": "target_message",
       "value": "Hola equipo de Evertec! ¡Bienvenidos a Test!"
+    },
+    {
+      "name": "target_workspace_name",
+      "value": "ws-sdlc-test"
     }
   ]
 }
